@@ -1,1 +1,1 @@
-Am ALX student Software Eningeering. 
+Am ALX Software Eningeering student.
