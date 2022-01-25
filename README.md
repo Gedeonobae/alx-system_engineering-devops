@@ -12,7 +12,6 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 * [0x06. Regular expression](./0x06-regular_expressions)
 * [Command Line for the Win](./command_line_for_the_win)
 
-
 ## Author :black_nib:
 
 * __Gedeon Obae Gekonge__ <[Gedeonobae](https://github.com/Gedeonobae)>
