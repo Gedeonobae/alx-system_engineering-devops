@@ -10,6 +10,7 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 * [0x04. Loops, conditions and parsing](./0x04-loops_conditions_and_parsing)
 * [0x05. Processes and signals](./0x05-processes_and_signals)
 * [0x06. Regular expression](./0x06-regular_expressions)
+* [0x09. Web infrastructure design](./0x09-web_infrastructure_design)
 * [Command Line for the Win](./command_line_for_the_win)
 
 ## Author :black_nib:
