@@ -8,5 +8,3 @@ file { 'holberton':
   owner   => 'www-data',
   path    => '/tmp/holberton',
 }
-
-
