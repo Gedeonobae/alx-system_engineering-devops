@@ -3,13 +3,14 @@
 #+    Enables management via the init script.
 #+    Distributes requests using a round-robin algorithm.
 
-sudo apt-get -y update
-sudo apt-get -y upgrade
-sudo apt-get -y install haproxy
+apt-get install -y software-properties-common
+add-apt-repository -y ppa:vbernat/haproxy-1.8
+apt-get update
+apt-get install -y haproxy=1.8.\*
 
 echo "ENABLED=1" >> /etc/default/haproxy
-sudo mv /etc/haproxy/haproxy.cfg{,.original}
-sudo touch /etc/haproxy/haproxy.cfg
+mv /etc/haproxy/haproxy.cfg{,.original}
+touch /etc/haproxy/haproxy.cfg
 
 printf %s "global
     log 127.0.0.1 local0 notice
@@ -38,4 +39,4 @@ listen hbnb
     server 2012-web-02 3.233.219.154 check
 " >> /etc/haproxy/haproxy.cfg
 
-sudo service haproxy start
+service haproxy start
