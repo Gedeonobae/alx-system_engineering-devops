@@ -19,6 +19,7 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 * [0x0C. Web stack debugging #0](./0x0C-web_stack_debugging_0)
 * [0x0D. Configuration management](./0x0D-configuration_management)
 * [0x0E. Web stack debugging #1](./0x0E-web_stack_debugging_1)
+* [0x10. HTTPS SSL](./0x10-https_ssl)
 * [Command Line for the Win](./command_line_for_the_win)
 
 ## Author :black_nib:
