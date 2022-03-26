@@ -3,6 +3,14 @@
 In this project, I learned about handling process ID's and signals in Bash
 with `ps`, `pgrep`, `pkill`, `pkill`, `exit`, and `trap`.
 
+##Resources
+
+<a href ="http://www.linfo.org/pid.html"> Linux PID </a>
+<br>
+<a href ="https://www.thegeekstuff.com/2012/03/linux-processes-environment/"> Linux process </a>
+<br>
+<a href ="https://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/"> Linux signals </a>
+
 ## Tasks :page_with_curl:
 
 * **0. What is my PID**
