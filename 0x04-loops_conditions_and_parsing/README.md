@@ -2,6 +2,20 @@
 
 In this project, I began working loops and conditionals statemetns in Bash.
 
+## Resources
+### Read or Watch
+
+*<a href ="https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_01.html"> Loops sample </a> <br>
+
+*<a href ="https://tldp.org/LDP/abs/html/ops.html"> Variable assignment and arithmetic </a> <br>
+
+*<a href ="https://tldp.org/LDP/abs/html/comparison-ops.html"> Comparison operators  </a> <br>
+
+*<a href ="https://tldp.org/LDP/abs/html/fto.html"> File test operators </a> <br>
+
+*<a href ="https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html"> Make your scripts portable  </a>
+
+
 ## Helper File :raised_hands:
 
 * [apache-access.log](./apache-access.log): An Apache access log file parsed in
