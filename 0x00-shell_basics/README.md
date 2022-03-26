@@ -9,16 +9,16 @@ creating links, and using keyboard shortcuts in Bash.
 
 ## Resources
 
-<a href = "http://linuxcommand.org/index.php"> What is "The Shell" </a> <br>
-<a href = "http://linuxcommand.org/lc3_lts0020.php"> Navigation </a> <br>
-<a href = "http://linuxcommand.org/lc3_lts0030.php"> Looking Around </a> <br>
-<a href = "http://linuxcommand.org/lc3_lts0040.php"> A Guided Tour </a> <br>
-<a href = "http://linuxcommand.org/lc3_lts0050.php"> Manipulating files </a> <br>
-<a href = "http://linuxcommand.org/lc3_lts0060.php"> Working With Commands </a> <br>
-<a href = "http://linuxcommand.org/lc3_man_pages/man1.html"> Reading Man pages </a> <br>
-<a href = "https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/"> Keyboard shortcuts for Bash </a> <br>
-<a href ="https://wiki.ubuntu.com/LTS"> LTS </a> <br>
-<a href ="https://en.wikipedia.org/wiki/Shebang_%28Unix%29"> Shebang </a>
+* <a href = "http://linuxcommand.org/index.php"> What is "The Shell" </a> <br>
+* <a href = "http://linuxcommand.org/lc3_lts0020.php"> Navigation </a> <br>
+* <a href = "http://linuxcommand.org/lc3_lts0030.php"> Looking Around </a> <br>
+* <a href = "http://linuxcommand.org/lc3_lts0040.php"> A Guided Tour </a> <br>
+* <a href = "http://linuxcommand.org/lc3_lts0050.php"> Manipulating files </a> <br>
+* <a href = "http://linuxcommand.org/lc3_lts0060.php"> Working With Commands </a> <br>
+* <a href = "http://linuxcommand.org/lc3_man_pages/man1.html"> Reading Man pages </a> <br>
+* <a href = "https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/"> Keyboard shortcuts for Bash </a> <br>
+* <a href ="https://wiki.ubuntu.com/LTS"> LTS </a> <br>
+* <a href ="https://en.wikipedia.org/wiki/Shebang_%28Unix%29"> Shebang </a>
 
 ## Tasks :page_with_curl:
 
