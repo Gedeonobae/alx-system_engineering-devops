@@ -9,7 +9,7 @@ creating links, and using keyboard shortcuts in Bash.
 
 ## Resources
 
-<a href = "https://./rltoken/vwO91sqNBgRL03BLu-ueiA"> What is "The Shell" </a> <br>
+<a href = "https://rltoken/vwO91sqNBgRL03BLu-ueiA"> What is "The Shell" </a> <br>
 <a href = "https://alx-intranet.hbtn.io/rltoken/iblidp7yp6i-QpT8rDXHaA"> Navigation </a> <br>
 <a href = "https://alx-intranet.hbtn.io/rltoken/xEKUCnQsMH0esQ6fJU5vLA"> Looking Around </a> <br>
 <a href = "https://alx-intranet.hbtn.io/rltoken/HUhQ73fFR1GOC5nb4r-mDw"> A Guided Tour </a> <br>
