@@ -4,8 +4,11 @@ In this project, I learned about using the `chmod`, `sudo`, `su`, `chown`, and
 `chgrp` commands to represent and change Linux file permissions and change users
 in the Shell.
 
-## Tasks :page_with_curl:
+## Resources
 
+<a href ="http://linuxcommand.org/lc3_lts0090.php"> Permissions </a>
+## Tasks :page_with_curl:
+ <br>
 * **0. My name is Betty**
   * [0-iam_betty](./0-iam_betty): Bash script that changes the user ID to `betty`.
 
