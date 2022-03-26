@@ -10,15 +10,15 @@ creating links, and using keyboard shortcuts in Bash.
 ## Resources
 
 <a href = "http://linuxcommand.org/index.php"> What is "The Shell" </a> <br>
-<a href = "https://alx-intranet.hbtn.io/rltoken/iblidp7yp6i-QpT8rDXHaA"> Navigation </a> <br>
-<a href = "https://alx-intranet.hbtn.io/rltoken/xEKUCnQsMH0esQ6fJU5vLA"> Looking Around </a> <br>
-<a href = "https://alx-intranet.hbtn.io/rltoken/HUhQ73fFR1GOC5nb4r-mDw"> A Guided Tour </a> <br>
-<a href = "https://alx-intranet.hbtn.io/rltoken/olv-1tj4d1LA57Z0PrLNvw"> Manipulating files </a> <br>
-<a href = "https://alx-intranet.hbtn.io/rltoken/zUtux3Pm0BkvtwXzbTtkmA"> Working With Commands </a> <br>
-<a href = "https://alx-intranet.hbtn.io/rltoken/rddGdsqLf8_kRzp12RaD4A"> Reading Man pages </a> <br>
+<a href = "http://linuxcommand.org/lc3_lts0020.php"> Navigation </a> <br>
+<a href = "http://linuxcommand.org/lc3_lts0030.php"> Looking Around </a> <br>
+<a href = "http://linuxcommand.org/lc3_lts0040.php"> A Guided Tour </a> <br>
+<a href = "http://linuxcommand.org/lc3_lts0050.php"> Manipulating files </a> <br>
+<a href = "http://linuxcommand.org/lc3_lts0060.php"> Working With Commands </a> <br>
+<a href = "http://linuxcommand.org/lc3_man_pages/man1.html"> Reading Man pages </a> <br>
 <a href = "https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/"> Keyboard shortcuts for Bash </a> <br>
 <a href ="https://wiki.ubuntu.com/LTS"> LTS </a> <br>
-<a href ="https://alx-intranet.hbtn.io/rltoken/cE8ZA3kgEaFhB-IDNv31bQ"> Shebang </a>
+<a href ="https://en.wikipedia.org/wiki/Shebang_%28Unix%29"> Shebang </a>
 
 ## Tasks :page_with_curl:
 
