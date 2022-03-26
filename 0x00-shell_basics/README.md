@@ -16,7 +16,7 @@ creating links, and using keyboard shortcuts in Bash.
 <a href = "https://alx-intranet.hbtn.io/rltoken/olv-1tj4d1LA57Z0PrLNvw"> Manipulating files </a> <br>
 <a href = "https://alx-intranet.hbtn.io/rltoken/zUtux3Pm0BkvtwXzbTtkmA"> Working With Commands </a> <br>
 <a href = "https://alx-intranet.hbtn.io/rltoken/rddGdsqLf8_kRzp12RaD4A"> Reading Man pages </a> <br>
-<a href = "https://alx-intranet.hbtn.io/rltoken/JcsRq7PW6v7SdpPH_N8udQ"> Keyboard shortcuts for Bash </a> <br>
+<a href = "https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/"> Keyboard shortcuts for Bash </a> <br>
 <a href ="https://wiki.ubuntu.com/LTS"> LTS </a> <br>
 <a href ="https://alx-intranet.hbtn.io/rltoken/cE8ZA3kgEaFhB-IDNv31bQ"> Shebang </a>
 
