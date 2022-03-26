@@ -28,7 +28,7 @@ Regular expressions - basics </a><br>
 * <a href ="https://rubular.com/"> Rubular is your best friend </a><br>
 
 * <a href ="https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/"> Use a regular expression against a problem: now you have 2 problems </a><br>
-* <a href "https://regexone.com/"> Learn Regular Expressions with simple, interactive exercises </a>
+* <a href ="https://regexone.com/"> Learn Regular Expressions with simple, interactive exercises </a>
 
 
 ## Tasks :page_with_curl:
