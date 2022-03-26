@@ -3,6 +3,34 @@
 In this project, I learned how to use regular expressions. I practiced building
 them using Ruby's Oniguruma library.
 
+## Concepts
+<p> <i>For this project, I looked at this concept:</i></p>
+
+* <a href ="http://regex.info/blog/2006-09-15/247"> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.”   Now they have two problems. (super classic joke in the industry) </a>
+
+### about regexpi:
+
+* <a href ="https://www.regular-expressions.info/"> https://www.regular-expressions.info/</a><br>
+
+* <a href ="https://www.w3schools.com/jsref/jsref_obj_regexp.asp"> http://www.w3schools.com/jsref/jsref_obj_regexp.asp Play with regexp (or compose them):</a><br>
+
+* <a href ="https://rubular.com/"> Ruby: http://rubular.com/</a><br>
+
+* <a href ="https://regex101.com/"> PHP/Javascript/Python: https://regex101.com/</a>
+
+## Resources
+### Read or watch:
+* <a href ="https://www.slideshare.net/neha_jain/introducing-regular-expressions">
+Regular expressions - basics </a><br>
+
+* <a href ="https://www.slideshare.net/neha_jain/advanced-regular-expressions-80296518"> Regular expressions - advanced </a><br>
+
+* <a href ="https://rubular.com/"> Rubular is your best friend </a><br>
+
+* <a href ="https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/"> Use a regular expression against a problem: now you have 2 problems </a><br>
+* <a href "https://regexone.com/"> Learn Regular Expressions with simple, interactive exercises </a>
+
+
 ## Tasks :page_with_curl:
 
 _Note: Each Ruby script in the project matches regular expressions based on an
