@@ -6,7 +6,7 @@ with `ps`, `pgrep`, `pkill`, `pkill`, `exit`, and `trap`.
 ## Resources
 
 * <a href ="http://www.linfo.org/pid.html"> Linux PID </a>
-* <br>
+ <br>
 * <a href ="https://www.thegeekstuff.com/2012/03/linux-processes-environment/"> Linux process </a>
 <br>
 * <a href ="https://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/"> Linux signals </a>
