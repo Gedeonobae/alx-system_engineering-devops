@@ -1,20 +1,21 @@
 # Shell, I/O Redirections and filters
 
-## Resources
-### Read or watch:
-
-<a href ="http://linuxcommand.org/lc3_lts0070.php"> Shell, I/O Redirection </a>
-<br>
-<a href = "http://mywiki.wooledge.org/BashGuide/SpecialCharacters"> Special Characters </a>
-
 In this project, I learned about using the `head`, `tail`, `find`, `wc`, `sort`,
 `uniq`, `grep`, and `tr` commands to redirect standard input and output and
 combine commands in the Shell. Further, I learned about how special characters
 work and how to filter text from files.
 
-## Tasks :page_with_curl:
+ 
+## Resources
+### Read or watch:
 
-* **0. Hello World**
+<a href ="http://linuxcommand.org/lc4_lts0070.php"> Shell, I/O Redirection </a>
+<br>
+<a href = "http://mywiki.wooledge.org/BashGuide/SpecialCharacters"> Special Characters </a>
+
+In this project, I learned about using the `head`, `tail`, `find`, `wc`, `sort`,
+
+ * **0. Hello World**
   * [0-hello_world](./0-hello_world): Bash script that prints "Hello, World"
   followed by a new line to the standard output.
 
