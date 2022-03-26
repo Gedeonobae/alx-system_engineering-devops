@@ -9,8 +9,7 @@ work and how to filter text from files.
 ## Resources
 ### Read or watch:
 
-* <a href ="http://linuxcommand.org/lc4_lts0070.php"> Shell, I/O Redirection </a>
-<br>
+* <a href ="http://linuxcommand.org/lc4_lts0070.php"> Shell, I/O Redirection </a><br>
 * <a href = "http://mywiki.wooledge.org/BashGuide/SpecialCharacters"> Special Characters </a>
 
 In this project, I learned about using the `head`, `tail`, `find`, `wc`, `sort`,
