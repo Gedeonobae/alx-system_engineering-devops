@@ -6,7 +6,7 @@ in the Shell.
 
 ## Resources
 
-<a href ="http://linuxcommand.org/lc3_lts0090.php"> Permissions </a>
+* <a href ="http://linuxcommand.org/lc3_lts0090.php"> Permissions </a>
 ## Tasks :page_with_curl:
  <br>
 * **0. My name is Betty**
