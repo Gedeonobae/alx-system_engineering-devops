@@ -2,7 +2,21 @@
 
 In this project, I learned about initialization files, local, global, and
 reserved variables, and special parameters in the Shell. Further, I practiced
-using expansions, performing arithmetic operations, and utilizing aliases.
+using expansions, performing arithmetic operations, and utilizing aliases
+
+## Resources
+
+<a href ="http://linuxcommand.org/lc3_lts0080.php"> Expansions </a> <br>
+
+<a href ="https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html"> Shell Arithmetic </a> <br>
+
+<a href ="https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html"> variables </a> <br>
+
+<a href ="https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html"> Shell initialization files </a> <br>
+
+<a href ="http://www.linfo.org/alias.html"> The alias Command </a> <br>
+
+<a href ="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/6/9112669886fd446a2aa3113c31319d1f468dc160.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220326T145218Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=09d96f11fd8315ae88b397b787d76210fa1f58d90ef44350e9cffae438b333f9"> Technical Writing </a>
 
 ## Tasks :page_with_curl:
 
