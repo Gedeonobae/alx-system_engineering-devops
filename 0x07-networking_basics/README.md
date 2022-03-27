@@ -12,10 +12,9 @@ transfer protocols.
 * <a href ="https://www.lifewire.com/lans-wans-and-other-area-networks-817376"> Different types of networks</a> <br>
 * <a href ="https://en.wikipedia.org/wiki/Local_area_network"> LAN network </a> <br>
 * <a href ="https://en.wikipedia.org/wiki/Wide_area_network"> WAN network </a> <br>
-* <a href ="https://en.wikipedia.org/wiki/Internet"> Internt </a> <br>
+* <a href ="https://en.wikipedia.org/wiki/Internet"> Internet </a> <br>
 * <a href ="https://whatismyipaddress.com/mac-address"> What is a MAC Address? </a> <br>
-* <a href ="https://www.bleepingcomputer.com/tutorials/ip-addresses-explained/"> 
-What is an IP address </a> <br>
+* <a href ="https://www.bleepingcomputer.com/tutorials/ip-addresses-explained/">What is an IP address </a> <br>
 * <a href ="https://www.iplocation.net/public-vs-private-ip-address"> Private and public address </a> <br>
 * <a href ="https://www.webopedia.com/insights/ipv6-ipv4-difference/"> IPv4 and IPv6 </a> <br>
 * <a href ="https://en.wikipedia.org/wiki/Localhost"> Localhost </a> <br>
