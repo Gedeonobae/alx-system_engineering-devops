@@ -29,7 +29,7 @@ transfer protocols.
 
 ### Pdf questions
 
- <p>Open a PDF file <a href="/media/Networking.pdf">example</a>.</p>
+ <p>Open a PDF file <a href="media/Networking.pdf">Questions</a>.</p>
 
 ## Tasks :page_with_curl:
 
