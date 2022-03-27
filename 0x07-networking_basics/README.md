@@ -25,7 +25,11 @@ transfer protocols.
 
 ### man or help:
 * netstat<br>
-* ping 
+* ping
+
+### Pdf questions
+
+ <p>Open a PDF file <a href="/media/Networking.pdf">example</a>.</p>
 
 ## Tasks :page_with_curl:
 
