@@ -5,6 +5,29 @@ project, I answered a few quiz-like questions and wrote a couple bash scripts
 while learning about the OSI model, LAN and WAN networks, and TCP/UDP data
 transfer protocols.
 
+## Resources
+### Read or Watch
+
+* <a href ="https://en.wikipedia.org/wiki/OSI_model"> OSI model </a> <br>
+* <a href ="https://www.lifewire.com/lans-wans-and-other-area-networks-817376"> Different types of networks</a> <br>
+* <a href ="https://en.wikipedia.org/wiki/Local_area_network"> LAN network </a> <br>
+* <a href ="https://en.wikipedia.org/wiki/Wide_area_network"> WAN network </a> <br>
+* <a href ="https://en.wikipedia.org/wiki/Internet"> Internt </a> <br>
+* <a href ="https://whatismyipaddress.com/mac-address"> What is a MAC Address? </a> <br>
+* <a href ="https://www.bleepingcomputer.com/tutorials/ip-addresses-explained/"> 
+What is an IP address </a> <br>
+* <a href ="https://www.iplocation.net/public-vs-private-ip-address"> Private and public address </a> <br>
+* <a href ="https://www.webopedia.com/insights/ipv6-ipv4-difference/"> IPv4 and IPv6 </a> <br>
+* <a href ="https://en.wikipedia.org/wiki/Localhost"> Localhost </a> <br>
+* <a href ="https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/"> TCP and UDP </a> <br>
+* <a href ="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers"> TCP/UDP ports List </a> <br>
+* <a href ="https://en.wikipedia.org/wiki/Ping_%28networking_utility%29"> What is ping /ICMP </a> <br>
+* <a href ="https://wiki.bash-hackers.org/scripting/posparams"> Positional parameters </a> <br>
+
+### man or help:
+* netstat<br>
+* ping 
+
 ## Tasks :page_with_curl:
 
 * **0. OSI model**
