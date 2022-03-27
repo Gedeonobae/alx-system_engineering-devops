@@ -20,8 +20,7 @@ them using Ruby's Oniguruma library.
 
 ## Resources
 ### Read or watch:
-*<a href ="https://www.slideshare.net/neha_jain/introducing-regular-expressions">
-Regular expressions - basics </a><br>
+* <a href ="https://www.slideshare.net/neha_jain/introducing-regular-expressions"> Regular expressions - basics </a><br>
 
 * <a href ="https://www.slideshare.net/neha_jain/advanced-regular-expressions-80296518"> Regular expressions - advanced </a><br>
 
