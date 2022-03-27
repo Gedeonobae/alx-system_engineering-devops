@@ -31,6 +31,9 @@ transfer protocols.
 
  <p>Open a PDF file <a href="media/Networking.pdf">Questions</a>.</p>
 
+<iframe src="media/Netwoking.pdf" width="100%" height="500px">
+    </iframe>
+
 ## Tasks :page_with_curl:
 
 * **0. OSI model**
