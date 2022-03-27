@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # Installs Nginx with the following configurations:
 #+    Listens on port 80.
-#+    Returns a page containing "Holberton School" when queried
+#+    Returns a page containing "Hello World!" when queried
 #++    at the root with a curl GET request.
 
-apt-get update
-apt-get install -y nginx
+sudo apt-get update
+sudo apt-get install -y nginx
 
 mkdir /etc/nginx/html
 touch /etc/nginx/html/index.html
@@ -17,5 +17,3 @@ printf %s "server {
      index       index.html index.htm;
 }
 " > /etc/nginx/sites-available/default
-
-service nginx restart
