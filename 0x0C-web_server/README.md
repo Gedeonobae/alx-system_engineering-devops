@@ -53,7 +53,7 @@ The server is accessible at [bdbnb.site](http://bdbnb.site).
   * [fabfile.py](./fabfile.py): A Python Fabric configuration file defining
   the following functions:
   * `pack`
-    * Usage: `fabric pack`
+    * Usage: `fabric pack`  
     * Creates a tar gzipped archive of the current directory named
     `holbertonwebapp.tar.gz` in the local directory.
   * `deploy`
