@@ -137,3 +137,27 @@ Do not mix up server and web server. (Check out the web server concept page to k
 
 ## Resources :book:
 
+### Read or watch:
+
+* Network basics concept page <br>
+* Server concept page <br>
+* Web server concept page <br>
+* DNS concept page <br>
+* Load balancer concept page <br>
+* Monitoring concept page <br>
+* <a href ="https://www.techtarget.com/searchdatamanagement/definition/database">  What is a database</a> <br>
+
+* <a href ="https://www.youtube.com/watch?v=S97eKyv2b9M">  What’s the difference between a web server and an app server?</a> <br>
+
+* <a href ="https://pressable.com/?s=DNS&post_type=knowledgebase">  DNS record types </a> <br>
+
+* <a href ="https://en.wikipedia.org/wiki/Single_point_of_failure">  Single point of failure </a> <br>
+
+* <a href ="https://softwareengineering.stackexchange.com/questions/35063/how-do-you-update-your-production-codebase-database-schema-without-causing-downt#answers-header">  How to avoid downtime when deploying new code </a> <br>
+
+* <a href ="https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712">  High availability cluster (active-active/active-passive) </a> <br>
+
+* <a href ="https://www.instantssl.com/http-vs-https">  What is HTTPS </a> <br>
+
+* <a href ="https://www.webopedia.com/definitions/firewall/">   </a> <br>
+
