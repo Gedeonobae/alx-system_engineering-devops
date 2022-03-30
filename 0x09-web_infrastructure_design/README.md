@@ -159,5 +159,5 @@ Do not mix up server and web server. (Check out the web server concept page to k
 
 * <a href ="https://www.instantssl.com/http-vs-https">  What is HTTPS </a> <br>
 
-* <a href ="https://www.webopedia.com/definitions/firewall/">   </a> <br>
+* <a href ="https://www.webopedia.com/definitions/firewall/"> What is a firewall   </a> 
 
