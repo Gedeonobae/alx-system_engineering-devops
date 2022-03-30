@@ -123,12 +123,12 @@ Servers are located in datacenters which are buildings that host hundreds, or ev
 
 Read:
 
-    * <a href="https://en.wikipedia.org/wiki/Server_(computing)#Hardware_requirement">What is a server</a>
+    * <a href="https://en.wikipedia.org/wiki/Server_(computing)#Hardware_requirement"> What is a server </a>
 
 Watch:
 
-    * <a href ="https://www.youtube.com/watch?v=B1ANfsDyjeA">What is a server</a><br>
-    * <a href ="https://www.youtube.com/watch?t=33&v=iuqXFC_qIvA&feature=youtu.be">Where are servers hosted (data centers)</a>
+    * <a href ="https://www.youtube.com/watch?v=B1ANfsDyjeA"> What is a server </a><br>
+    * <a href ="https://www.youtube.com/watch?t=33&v=iuqXFC_qIvA&feature=youtu.be"> Where are servers hosted (data centers) </a>
 
 Do not mix up server and web server. (Check out the web server concept page to know more about this.)
 
