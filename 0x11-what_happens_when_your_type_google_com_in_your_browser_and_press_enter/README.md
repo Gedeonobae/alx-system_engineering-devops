@@ -26,6 +26,7 @@ website] into a browser and hit `Enter`?
       + Application server.
       + Database.
 
+
 + [x] 1. Everything's better with a pretty diagram<br/>_**[1-what_happen_when_diagram](1-what_happen_when_diagram)**_ contains the URL of a diagram image that addresses the following requirements.
   + The diagram must be added to your blog post and should illustrate the flow of the request created when you type [https://www.google.com](https://www.google.com) in your browser and press `Enter`.
   + The diagram should show:
