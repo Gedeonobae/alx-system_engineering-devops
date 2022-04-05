@@ -2,6 +2,12 @@
 
 In this project, I used `ufw` to configure firewalls on my issued web servers.
 
+## Resources
+
+* <a href ="https://help.ubuntu.com/community/UFW"> UFW - Uncomplicated Firewall </a> <br>
+* <a href ="https://www.inmotionhosting.com/support/security/how-to-install-firewalld-on-linux/"> How to Install Firewalld on Linux</a> <br>
+* <a href ="https://www.devmanuals.net/install/ubuntu/ubuntu-12-04-lts-precise-pangolin/install-ufw.html"> Install ufw on Ubuntu: sudo apt-get install ufw </a> <br>
+
 ## Tasks :page_with_curl:
 
 
