@@ -18,5 +18,5 @@ In this project, I used `ufw` to configure firewalls on my issued web servers.
 
 * **1. Port forwarding**
   * [100-port_forwarding](./100-port_forwarding): `ufw` configuration file that
-  configures a firewall to redirect port `8080/TCP` to port `80/TCP`.
+  configures a firewall to redirect port `8080/TCP` to port `80/TCP`..
 
