@@ -21,6 +21,10 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 * [0x0E. Web stack debugging #1](./0x0E-web_stack_debugging_1)
 * [0x10. HTTPS SSL](./0x10-https_ssl)
 * [0x13. Firewall](./0x13-firewall)
+* [0x14. Mysql](./0x14-mysql)
+* [0x15. API](./0x15-api)
+* [0x16. API advanced](./0x16-api_advanced)
+* [0x17. Web stack debugging #3](./0x17-web_stack_debugging_3)
 * [Command Line for the Win](./command_line_for_the_win) <br>
 
 ## Author :black_nib:
