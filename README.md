@@ -32,7 +32,7 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 
 ## Author :black_nib: <br>
 
-* __Gedeon Obae Gekonge__ <[Gedeonobae](https://github.com/Gedeonobae)><br>
+* __Gedeon Obae Gekonge__ <[Gedeonobae](https://github.com/Gedeonobae)>
 
 ## Acknowledgements :pray:
 
