@@ -21,6 +21,7 @@ Prototypes for functions written in this project:
 
 ## Tasks :page_with_curl:
 
+
 * **0. How many subs?**
   * [0-subs.py](./0-subs.py): Python function that returns the total number of
   subscribers for a given subreddit.
