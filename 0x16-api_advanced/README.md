@@ -10,6 +10,7 @@ School.
 
 ## Function Prototypes :floppy_disk:
 
+
 Prototypes for functions written in this project:
 
 | File           | Prototype                               |
