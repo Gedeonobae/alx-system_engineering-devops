@@ -30,7 +30,7 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 * [0x17. Web stack debugging #3](./0x17-web_stack_debugging_3)
 * [Command Line for the Win](./command_line_for_the_win)
 
-## Author :black_nib: <br>
+## Author :black_nib:
 
 * __Gedeon Obae Gekonge__ <[Gedeonobae](https://github.com/Gedeonobae)>
 
