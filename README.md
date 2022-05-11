@@ -32,7 +32,7 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 * [0x19. Postmortem](./0x19-postmortem)
 * [0x1A. Application server](./0x1A-application_server)
 * [0x1B. Web stack debugging #4](./0x1B-web_stack_debugging_4)
-* [Command Line for the Win](./command_line_for_the_win)
+* [Command Line for the Win](./command_line_for_the_win)<br>
 
 ## Author :black_nib:
 
