@@ -16,6 +16,7 @@ Files in this project contain links to each respective whiteboard diagram
 
 ## Be sure to know the main DNS record types: 
 
+
 * <a href ="https://support.dnsimple.com/articles/a-record/"> A </a> <br>
 
 * <a href ="https://en.wikipedia.org/wiki/CNAME_record"> CNAME </a> <br>
