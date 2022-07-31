@@ -15,6 +15,7 @@ package, and execute a command.
     * File owner: `www-data`.
     * File content: `I love Puppet`.
 
+
 * **1. Install a package**
 
   * [1-install_a_package.pp](./1-install_a_package.pp): Puppet manifest file
