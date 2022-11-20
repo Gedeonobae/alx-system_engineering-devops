@@ -3,6 +3,7 @@
 This repository contains programs written for the system engineering and DevOps
 track at ALX-Holberton School. In these projects, I'm working with Bash and practiced writing Bash scripts to automate tasks.
 
+
 * [0x00. Shell, basics](./0x00-shell_basics)
 * [0x01. Shell, permissions](./0x01-shell_permissions)
 * [0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections)
@@ -21,6 +22,7 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 * [0x0E. Web stack debugging #1](./0x0E-web_stack_debugging_1)
 * [0x10. HTTPS SSL](./0x10-https_ssl)
 * [0x13. Firewall](./0x13-firewall)
+
 * [0x14. Mysql](./0x14-mysql)
 
 * [0x15. API](./0x15-api)
