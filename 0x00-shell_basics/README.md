@@ -10,6 +10,7 @@ creating links, and using keyboard shortcuts in Bash.
 ## Resources
 
 * <a href = "http://linuxcommand.org/index.php"> What is "The Shell" </a> <br>
+
 * <a href = "http://linuxcommand.org/lc3_lts0020.php"> Navigation </a> <br>
 * <a href = "http://linuxcommand.org/lc3_lts0030.php"> Looking Around </a> <br>
 * <a href = "http://linuxcommand.org/lc3_lts0040.php"> A Guided Tour </a> <br>
