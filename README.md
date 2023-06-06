@@ -20,10 +20,12 @@ track at ALX-Holberton School. In these projects, I'm working with Bash and prac
 * [0x07. Networking basics #0](./0x07-networking_basics)
 * [0x08. Networking basics #1](./0x08-networking_basics_2)
 * [0x09. Web infrastructure design](./0x09-web_infrastructure_design)
+
 * [0x0A. SSH](./0x0A-ssh)
 * [0x0B. Web server](./0x0B-web_server)
 * [0x0C. Web stack debugging #0](./0x0C-web_stack_debugging_0)
 * [0x0D. Configuration management](./0x0D-configuration_management)
+
 * [0x0E. Web stack debugging #1](./0x0E-web_stack_debugging_1)
 * [0x10. HTTPS SSL](./0x10-https_ssl)
 * [0x13. Firewall](./0x13-firewall)
